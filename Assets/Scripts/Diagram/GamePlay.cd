@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WheelLetter" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Wheel\WheelLetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardController">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAACAAAAAAAAAAAAAAAEQAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardLetter" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardLetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardWord">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAACAAEAAAAAAAAAgAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardWord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BufferLetter" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffer\BufferLetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptyLetter" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Letter\EmptyLetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetterBase" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEACAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Letter\LetterBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Puzzle">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAACAAAAAQAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Puzzle\Puzzle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BufferController">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffer\BufferController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheelController">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Wheel\WheelController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordData">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAECAAAAAAAAAwAAAQAAAAAAAAAiAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Puzzle\WordData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
